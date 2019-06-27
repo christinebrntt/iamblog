@@ -1,0 +1,47 @@
+body {
+    background-color: lightblue;
+}
+
+* {
+    font-family: 'Merriweather', serif;
+}
+
+.button {
+    box-sizing: border-box;
+    background-color: your colour choice;
+    align-items: center;
+    border: none;
+    color: your text colour choice;
+    padding: 15px 32px;
+    font-family: your font choice;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 28px;
+    box-shadow: 4px 4px #323030;
+    flex: 1;
+  }
+
+   p {
+       
+        border: 20px yellow;
+        padding: 55px;
+        margin: 22px;
+        background-color: 
+      }
+
+      .button {
+        box-sizing: border-box;
+        background-color: blueviolet;
+        align-items: center;
+        border: none;
+        color: your text black;
+        padding: 15px 32px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 28px;
+        box-shadow: 4px 4px #323030;
+        flex: 1;
+      }
