@@ -1,10 +1,18 @@
+* {
+    font-family: 'Merriweather', serif;
+    padding: 15px;
+}
+
 body {
     background-color: lightblue;
 }
-
-* {
-    font-family: 'Merriweather', serif;
+p, ul, li{
+  font-size: 22px;
 }
+h2{
+  font-size: 25px;
+}
+
 #example1 {
   box-shadow: 5px 10px;
 }
@@ -13,28 +21,13 @@ body {
   box-shadow: 5px 10px #888888;
 }
 
-.button {
-    box-sizing: border-box;
-    background-color: your colour choice;
-    align-items: center;
-    border: none;
-    color: your text colour choice;
-    padding: 15px;
-    font-family: your font choice;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 28px;
-    box-shadow: 4px 4px #323030;
-    flex: 1;
-  }
 
    p, ul, li {
        
         border: 20px yellow;
         padding: 10px;
         margin: 10px;
-        background-color: DeepSkyBlue 	#00BFFF
+
       }
       #example1 {
         box-shadow: 5px 10px;
@@ -48,9 +41,8 @@ body {
         background-color: blueviolet;
         align-items: center;
         border: none;
-        color: your text black;
         padding: 15px 32px;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: Arial;
         text-align: center;
         text-decoration: none;
         display: inline-block;
